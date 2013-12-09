@@ -5,6 +5,12 @@ weibo mini for windows phone users.
 
 just a fuild and small weibo app for Windows Phone.
 
+#how to install<br/>
+You can only install weibo.mini via developer unlock.<br/>
+
+you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-622927-1-1.html)
+
+
 #1.4<br/>
 1、去掉顶部的黑条<br/>
 2、地理位置的微博增加地图默认图片，同时修改为诺基亚缩略图<br/>
