@@ -5,6 +5,10 @@ weibo mini for windows phone users.
 
 just a fuild and small weibo app for Windows Phone.
 
+#how to download<br/>
+select the xap for your phone os version, eg weibomini.xx.8.xap <br/>
+just click `RAW` right top.
+
 #how to install<br/>
 You can only install weibo.mini via developer unlock.<br/>
 
