@@ -14,6 +14,18 @@ You can only install weibo.mini via developer unlock.<br/>
 
 you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-622927-1-1.html)
 
+#1.5<br/>
+1、增加预置尾巴，如weico、iPhone客户端 （1.5未实现）<br/>
+2、增加分享到微信<br/>
+3、调整首页布局，增加阅读区域<br/>
+4、大图增加左右滑动切换<br/>
+5、修正赞列表直接报错的问题<br/>
+6、私信中增加实时接收消息<br/>
+7、增加设置path菜单位置居左还是居右<br/>
+8、修正发布多图的到指定分组失败的问题<br/>
+9、修正复制收到评论报错的问题<br/>
+ 10、增加复制微博正文评论<br/>
+ 11、修正注销账号直接crash的问题<br/>
 
 #1.4<br/>
 1、去掉顶部的黑条<br/>
