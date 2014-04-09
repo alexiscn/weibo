@@ -14,6 +14,19 @@ You can only install weibo.mini via developer unlock.<br/>
 
 you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-622927-1-1.html)
 
+#1.6<br/>
+1、增加相册<br/>
+2、优化多图浏览（wp8）<br/>
+3、增加刷新个人资料<br/>
+4、增加@（原先输入@出现人名不变）<br/>
+5、优化下载图片速度<br/>
+6、增加快速回到顶部<br/>
+7、资料页面增加移除粉丝<br/>
+8、个人资料微博不能加载更多的问题<br/>
+9、修改点击我的头像进入别人资料页面模板的问题<br/>
+10、修正热门话题数据不准确的问题<br/>
+
+
 #1.5<br/>
 1、增加预置尾巴，如weico、iPhone客户端 （1.5未实现）<br/>
 2、增加分享到微信<br/>
