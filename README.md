@@ -5,16 +5,16 @@ weibo mini for windows phone users.
 
 just a fuild and small weibo app for Windows Phone.
 
-#how to download<br/>
+# how to download
 select the xap for your phone os version, eg weibomini.xx.8.xap <br/>
 just click `RAW` right top.
 
-#how to install<br/>
+# how to install
 You can only install weibo.mini via developer unlock.<br/>
 
 you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-622927-1-1.html)
 
-#1.6<br/>
+# 1.6
 1、增加相册<br/>
 2、优化多图浏览（wp8）<br/>
 3、增加刷新个人资料<br/>
@@ -27,7 +27,7 @@ you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-6
 10、修正热门话题数据不准确的问题<br/>
 
 
-#1.5<br/>
+# 1.5
 1、增加预置尾巴，如weico、iPhone客户端 （1.5未实现）<br/>
 2、增加分享到微信<br/>
 3、调整首页布局，增加阅读区域<br/>
@@ -40,7 +40,7 @@ you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-6
  10、增加复制微博正文评论<br/>
  11、修正注销账号直接crash的问题<br/>
 
-#1.4<br/>
+# 1.4
 1、去掉顶部的黑条<br/>
 2、地理位置的微博增加地图默认图片，同时修改为诺基亚缩略图<br/>
 3、将程序中的一些英文更改为中文<br/>
@@ -53,7 +53,7 @@ you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-6
 10、修正查看被删除的原微博时，程序crash的问题<br/>
 
 
-#1.3<br/>
+# 1.3
 1、修正赞列表，原微博是多图时，点击图片程序崩溃的问题<br/>
 2、在照片分享中增加微博mini，浏览照片时快速分享到微博mini（wp8）<br/>
 3、设置中增加上传原图选项<br/>
@@ -66,7 +66,7 @@ you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-6
 10、修正资料页面中微博出现重复的问题。<br/>
 
 
-#1.2<br/>
+# 1.2
 1、增加多种主题以及自定义主题（wp8）<br/>
 2、修正个人资料页面，发私信按钮与备注按钮" 在一起"的问题<br/>
 3、增加浪小花表情解析<br/>
@@ -79,7 +79,7 @@ you may refer this post [how to unlock your phone](http://www.wpxap.com/thread-6
 10、修正双击退出程序导致的一些问题<br/>
 
 
-#1.1<br/>
+# 1.1
 1、首页使用下拉刷新<br/>
 2、优化用户列表（增加粉丝数、关注数等信息）<br/>
 3、优化微博正文页，点击原微博可以查看原微博<br/>
